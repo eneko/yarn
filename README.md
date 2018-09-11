@@ -22,3 +22,13 @@ $ ./.build/release/yarn /path/to/keys.plist
 # Test
 $ swift test
 ```
+
+### Installation
+
+From source:
+```
+$ git clone https://github.com/johnhammerlund/yarn.git
+$ cd yarn
+$ make install
+```
+
